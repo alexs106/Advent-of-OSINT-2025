@@ -2,7 +2,7 @@
 
 ![Challenge 1](./AoO1.jpg)
 
-** Question 1 : ** Who was driving this car in this picture?
+**Question 1 :** Who was driving this car in this picture?
 
 Okay so obviously my first instinct was `picture = reverse image`.
 
@@ -10,13 +10,13 @@ So I went over to Google's Reverse Image Search and found a Wikipedia picture th
 
 Went over to the website and got the answer : **Fernando Alonso**
 
-That year, on which circuit did Alonso achieve his best result? 
+**Question2 :** That year, on which circuit did Alonso achieve his best result? 
 
 Okay, from the wikipedia image we know that the image corresponds to Fernando Alonso in Minardi PS01 **2001**.
 If we look up statistics on Alonso's performance during that year (https://pitwall.app/drivers/fernando-alonso/2001), we find the answer : **10th at the German Grand Prix** that took place on the **Hockenheim** circuit.
 
 
-** Question 3 : ** A few years later, on this same circuit, he took his revenge by winning the race.<br>
+**Question 3 :** A few years later, on this same circuit, he took his revenge by winning the race.<br>
 What was his average speed (in km/h) during that race? 
 
 So we know we're looking for the best performance by Alonso on the Hockenheim circuit. 
